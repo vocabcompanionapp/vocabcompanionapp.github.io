@@ -2,6 +2,7 @@
 layout: default
 title: Support
 permalink: /support/
+description: A Scientific Approach to Learning Words
 ---
 
 # Contact & Support
