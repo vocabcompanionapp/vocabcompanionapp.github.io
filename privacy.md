@@ -2,6 +2,7 @@
 layout: default
 title: Privacy Policy
 permalink: /privacy/
+description: A Scientific Approach to Learning Words
 ---
 
 ## Privacy Policy
