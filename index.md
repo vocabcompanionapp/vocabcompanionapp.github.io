@@ -4,9 +4,7 @@ title: Home
 permalink: /
 ---
 
-# Vocab Companion
-
-How can we help you?
+# How can we help you?
 
 - [Privacy Policy](/privacy/)
 - [Support](/support/)
